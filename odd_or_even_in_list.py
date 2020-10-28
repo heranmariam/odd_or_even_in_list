@@ -1,6 +1,6 @@
-print("enter the lim")
+print("enter the limit")
 lim=int(input())
-print("enter the num")  
+print("enter the number")  
 num=[]
 for i in range (10):
     num2=int(input())
@@ -14,7 +14,7 @@ for i in range (10):
     else:
         odd.append(i)
 
-print ("even num is")
+print ("even number is")
 print (eve)
-print ("odd num is")
+print ("odd number is")
 print (odd)
