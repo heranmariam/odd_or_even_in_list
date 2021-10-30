@@ -1,20 +1,20 @@
 print("enter the limit")
-lim=int(input())
+limit=int(input())
 print("enter the number")  
 num=[]
-for i in range (10):
+for i in range (limit):
     num2=int(input())
     num.append (num2)
 
-eve=[]
+even=[]
 odd=[]
 for i in range (10):
     if i%2 ==0:
-        eve.append(i)
+        even.append(i)
     else:
         odd.append(i)
 
 print ("even number is")
-print (eve)
+print (even)
 print ("odd number is")
 print (odd)
