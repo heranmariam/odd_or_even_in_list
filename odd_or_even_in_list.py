@@ -1,6 +1,6 @@
 print("enter the limit")
 limit=int(input())
-print("enter the number")  
+print("enter the num")  
 num=[]
 for i in range (limit):
     num2=int(input())
