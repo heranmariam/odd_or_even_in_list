@@ -16,5 +16,5 @@ for i in range (10):
 
 print ("even number is")
 print (even)
-print ("odd number is")
+print ("odd num is")
 print (odd)
