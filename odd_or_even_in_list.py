@@ -1,4 +1,4 @@
-print("enter the limit")
+print("enter the lim")
 limit=int(input())
 print("enter the number")  
 num=[]
